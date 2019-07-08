@@ -1,14 +1,14 @@
 .create-form{
-    border: 1px solid black;
+    border: 1px solid lime;
     border-radius: 5px;
-    box-shadow: 5px 10px #888888;
+    box-shadow: 5px 10px grey;
     padding: 10px;
     margin: 20px;
   }
   .quote{
     border: 1px solid lime;
     border-radius: 5px;
-    box-shadow: 5px 10px #888888;
+    box-shadow: 5px 10px grey;
     padding: 10px;
     margin: 20px;
   }
