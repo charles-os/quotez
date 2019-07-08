@@ -9,8 +9,8 @@ import { Quote } from '../quote';
 export class QuoteComponent implements OnInit {
 
   quotes: Quote[] = [
-    new Quote(1, 'King John', 'Victorious warriors win first and then go to war', 'Junius', new Date(2019, 1, 30), 2, 0),
-    new Quote(2, 'Unknown', 'I hate war as only a soldier who has lived it can', 'Brutus', new Date(2019, 2, 30), 3, 0),
+    new Quote(1, 'Martin Luther', 'I cannot and will not recant anything, for to go against conscience is neither right nor safe. Here I stand, I can do no other, so help me God. Amen   ', 'Junius', new Date(1950, 1, 30), 2, 0),
+    new Quote(2, 'Unknown', 'If you do not design your own life plan, chances are you will fall into someone elses plan. And guess what they have planned for you? Not much.', 'Brutus', new Date(2000, 2, 30), 3, 0),
     new Quote(3, 'McCain', 'It was misreported then, and it is misremembered now.', 'Caesar', new Date(2019, 3, 30), 4, 0)
   ];
 
