@@ -14,7 +14,7 @@ https://charles-os.github.io/quotes-app/.
 To start using this project use the following commands:
 1.git clone https://github.com/charles-os/IP-Pizza.git
 2.cd delani-studio (to navigate to project directory)
-*  You are required to have internet and a browser to view this page.  [Online repo](https://chaloo56.github.io/Delani-Studios/.)
+*  You are required to have internet and a browser to view this page.  [Online repo](https://chaloo56.github.io/quotes-app/.)
 * Click on the green button to clone or download
 
 ## BDD
@@ -34,7 +34,7 @@ To start using this project use the following commands:
 ## Support and contact details
 contact me @ chaloo56@gmail.com
 ### License
-The project is under [MIT license](https://github.com/charles-os/IP-Pizza)
+The project is under [MIT license](https://github.com/charles-os/quotes-app)
 Copyright & copy; 2019.All rigths reserved
 
 
